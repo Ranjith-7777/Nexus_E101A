@@ -1,0 +1,2 @@
+claim_id,user_id,timestamp,type,description,peer_confirmations,manager_confirmed
+en1,uY,2026-01-03T19:39:50.388939,mentoring,Pair programming help,"uX,uZ",False

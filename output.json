@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "mode": "fairness_sampling",
+    "concurrency_score": 0.0,
+    "dependency_density": 0.667
+  },
+  "team_summary": {
+    "members": 3
+  },
+  "results": [
+    {
+      "user_id": "uA",
+      "name": "A (Silent)",
+      "score": 100.0,
+      "band": "Critical Contributor",
+      "roles": [
+        {
+          "name": "Silent Architect",
+          "confidence": 0.9
+        },
+        {
+          "name": "Quality Guardian",
+          "confidence": 0.09999999999999998
+        }
+      ],
+      "trend": "Stable",
+      "explanations": {
+        "top_positive": [
+          "Prevents downstream delays (counterfactual)",
+          "Peer-validated invisible work"
+        ],
+        "top_negative": []
+      },
+      "integrity": {
+        "penalty": 0.0,
+        "flags": []
+      },
+      "evidence": {
+        "peer_validated_claims": 1,
+        "invisible_score": 0.075
+      },
+      "confidence": "medium",
+      "guardrails": [
+        "Do not use as sole metric. Combine with qualitative review."
+      ]
+    },
+    {
+      "user_id": "uB",
+      "name": "B (Driver)",
+      "score": 50.0,
+      "band": "Core Contributor",
+      "roles": [
+        {
+          "name": "Silent Architect",
+          "confidence": 0.6903608835880753
+        },
+        {
+          "name": "Router / Coordinator",
+          "confidence": 0.30963911641192465
+        }
+      ],
+      "trend": "Stable",
+      "explanations": {
+        "top_positive": [
+          "Prevents downstream delays (counterfactual)"
+        ],
+        "top_negative": []
+      },
+      "integrity": {
+        "penalty": 0.0,
+        "flags": []
+      },
+      "evidence": {
+        "peer_validated_claims": 0,
+        "invisible_score": 0.0
+      },
+      "confidence": "medium",
+      "guardrails": [
+        "Do not use as sole metric. Combine with qualitative review."
+      ]
+    },
+    {
+      "user_id": "uC",
+      "name": "C (Guardian)",
+      "score": 0.0,
+      "band": "Emerging Contributor",
+      "roles": [
+        {
+          "name": "Silent Architect",
+          "confidence": 0.8338460961183471
+        },
+        {
+          "name": "Visible Driver",
+          "confidence": 0.16615390388165285
+        }
+      ],
+      "trend": "Stable",
+      "explanations": {
+        "top_positive": [
+          "Prevents downstream delays (counterfactual)"
+        ],
+        "top_negative": []
+      },
+      "integrity": {
+        "penalty": 0.0,
+        "flags": []
+      },
+      "evidence": {
+        "peer_validated_claims": 0,
+        "invisible_score": 0.0
+      },
+      "confidence": "medium",
+      "guardrails": [
+        "Do not use as sole metric. Combine with qualitative review."
+      ]
+    }
+  ]
+}

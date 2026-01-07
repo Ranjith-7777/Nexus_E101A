@@ -1,0 +1,4 @@
+commit_id,user_id,timestamp,lines_added,lines_deleted,files_changed,task_id
+c1,uA,2025-12-29T19:39:50.345626,120,10,5,T1
+c2,uB,2025-12-31T19:39:50.345626,200,50,8,T2
+c3,uC,2026-01-03T19:39:50.345626,30,5,2,T3

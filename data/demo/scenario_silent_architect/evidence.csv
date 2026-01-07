@@ -1,0 +1,2 @@
+claim_id,user_id,timestamp,type,description,peer_confirmations,manager_confirmed
+e1,uA,2026-01-01T19:39:50.345626,mentoring,Helped unblock design discussion,"uB,uC",False

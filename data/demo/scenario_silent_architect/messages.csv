@@ -1,0 +1,32 @@
+msg_id,user_id,timestamp,channel_id,text
+m1,uA,2025-12-28T23:39:50.345626,ch1,unblocked dependency
+m2,uA,2025-12-29T00:39:50.345626,ch1,unblocked dependency
+m3,uA,2025-12-29T01:39:50.345626,ch1,unblocked dependency
+m4,uB,2025-12-28T23:39:50.345626,ch1,ok
+m5,uB,2025-12-29T00:39:50.345626,ch1,update on task
+m6,uB,2025-12-29T01:39:50.345626,ch1,update on task
+m7,uB,2025-12-29T02:39:50.345626,ch1,update on task
+m8,uB,2025-12-29T03:39:50.345626,ch1,update on task
+m9,uB,2025-12-29T04:39:50.345626,ch1,update on task
+m10,uB,2025-12-29T05:39:50.345626,ch1,ok
+m11,uB,2025-12-29T06:39:50.345626,ch1,update on task
+m12,uB,2025-12-29T07:39:50.345626,ch1,update on task
+m13,uB,2025-12-29T08:39:50.345626,ch1,update on task
+m14,uB,2025-12-29T09:39:50.345626,ch1,update on task
+m15,uB,2025-12-29T10:39:50.345626,ch1,update on task
+m16,uB,2025-12-29T11:39:50.345626,ch1,ok
+m17,uB,2025-12-29T12:39:50.345626,ch1,update on task
+m18,uB,2025-12-29T13:39:50.345626,ch1,update on task
+m19,uB,2025-12-29T14:39:50.345626,ch1,update on task
+m20,uB,2025-12-29T15:39:50.345626,ch1,update on task
+m21,uB,2025-12-29T16:39:50.345626,ch1,update on task
+m22,uB,2025-12-29T17:39:50.345626,ch1,ok
+m23,uB,2025-12-29T18:39:50.345626,ch1,update on task
+m24,uC,2025-12-28T23:39:50.345626,ch1,update on task
+m25,uC,2025-12-29T00:39:50.345626,ch1,update on task
+m26,uC,2025-12-29T01:39:50.345626,ch1,update on task
+m27,uC,2025-12-29T02:39:50.345626,ch1,update on task
+m28,uC,2025-12-29T03:39:50.345626,ch1,update on task
+m29,uC,2025-12-29T04:39:50.345626,ch1,update on task
+m30,uC,2025-12-29T05:39:50.345626,ch1,update on task
+m31,uC,2025-12-29T06:39:50.345626,ch1,update on task
